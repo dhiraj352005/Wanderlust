@@ -11,7 +11,7 @@
   -  **User-friendly Interface**: For searching and listing properties
   -  **Mapbox API Integration**: For location-based search and property mapping
     
-#### Back-end 🛠️
+#### Back-end 
 - **Technologies Used**: Node.js, Express.js
 - **Features**:
   -  **RESTful API**: Handles user interactions
@@ -25,7 +25,7 @@
   -  **Structured Database Schema**: For efficient data management
   -  **Database Queries**: To retrieve and store property and user information
 
-#### Cloudinary Image Storage ☁️
+#### Cloudinary Image Storage 
 - **Image Hosting**: All listing images are securely stored on Cloudinary, providing reliable and efficient image hosting. This ensures that images are easily accessible, optimized for performance, and enhance the overall user experience.
 
 #### Additional Features 
